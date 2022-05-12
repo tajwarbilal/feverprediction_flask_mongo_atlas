@@ -1,0 +1,191 @@
+
+Your symptoms are Stopped Growth ( :-->  
+Possible diseases are 'Growth Disorder, Turner Syndrome',
+Analgesics are 'Thyroid hormone pills, growth hormone injections', 
+Treatment scans are 'Bone Age Xray, MRI scan', 
+Follow this diet 'Meat, Seafood, Leafygreens, Diary, Spinach, Beef'
+ ------->  .
+
+Your symptoms are Wheezing, Coughing and troubled breathing,chest pain --> Predicted disease is Asthma;
+Analgesics are Metered dose inhalers, nebulizers;
+Treatment scans are Asthma therapy; 
+Follow this diet Fruits and vegetables
+  ------->  .
+
+Your symptoms are baby too small, weight<5.5 pounds--> Predicted disease is 'Learning disabilities', 
+Analgesics are 'iron supplements', 
+Treatment scans are 'Temperature Control Incubator', 
+Follow this diet 'iron supplements'
+ -------> .
+
+Your symptoms are Repetetive behaviour,prefers to be alone--> Predicted disease is 'Autism\r\n',
+Analgesics are 'Ketamine, Midazolem', 
+Treatment scans are 'Teach social skills and cognitive behaviour',
+ Follow this diet 'Only yelow or white foods such as rice, potatoes or pasta and strictly avoid diary'
+  ------->.
+
+Your symptoms are Self-destructiveness,sadness and being upset-->
+Predicted disease is 'Depression', 
+Analgesics are 'Prozac, Zoloft or Celexa',
+Treatment scans are 'Constantly praise him, teach skills, and give self-development talks',
+ Follow this diet 'Fish and whole grains'.
+
+Your symptoms are Paleness, loss of energy, weightloss and easy bruising--Predicted disease is 'Cancer or Brain Tumor',
+Analgesics are 'Morphine or Ibuprofen', 
+Treatment scans are 'Chemotherapy or Stem cell transplant',
+ Follow this diet 'Cheese, Meat, Seafood, Diary and Eggs'.
+
+Your symptoms are Fever,fever up to 102f, Tiredness or Loss of Appetitse-->
+Predicted disease is'Chickenpox', 
+Analgesics are 'Acetaminophen', 
+Treatment scans are 'lukewarm bath and apply calamine lotion to itchy areas', 
+Follow this diet 'Raw fruits, Vegetables, Meat, Pastured eggs and avoid salty foods'.
+
+Your symptoms are easy tiredness and overweight-->
+Predicted disease is'Obesity', 
+Analgesics are 'Not suggested to take analgesics for obesity', 
+Treatment scans are 'building heathy eating ang drinking habits and physical activities like exercise', 
+Follow this diet 'Fruits and vegetables, and avoid skipping breakfast'
+ -------> .
+
+Your symptoms are Severe tooth ache-->
+Predicted disease is'Cavities\r\n',
+Analgesics are  'Ibuprofen or Aspirin',
+Treatment scans are 'Fluoride toothpaste', 
+Follow this diet 'juices and avoid sweets, chocolates and unhealthy snacks'.
+
+Your symptoms are Often urinating, slow healing of bruises, weightloss-->
+Predicted disease is 'Diabetes', 
+Analgesics are 'Tylenol or Aspirin', 
+Treatment scans are 'Insulin Treatment', 
+Follow this diet 'Brown rice or cereals with two eggs daily'
+-------> .
+
+Your symptoms are High body temperature, severe headache and tiredness -->
+Predicted disease is 'Fever', 
+Analgesics are 'Paracetemol or Panadol', 
+Treatment scans are 'Tylenol, Ibuprofen to treat stomach irritation',
+Follow this diet 'fluid intake like gatorage, fruitjuices or milk'
+( Ap ki alaamat hain : sar dard, thakawat, bukhar  -->
+Tashkhees : 'Bukhaar', 
+Ilaaj: 'Paracetemol or Panadol', 
+ 'Tylenol, Ibuprofen Meday k jalan k liye',
+Khoraak : 'fluid Istemal kijiye, fruitjuices or dhoodh piyen'
+) 
+-------> .
+
+Your symptoms are Depression, Eating Disorders-->
+Predicted disease is  'Drug or Smoke or Alcohol Addiction',
+Analgesics are  'Baclofen, Gebapentin', 
+Treatment scans are 'Visiting Rehabilitation Centers, Help teens choose good friends and learn to say NO', 
+Follow this diet 'Green leafy vegetables'.
+
+Your symptoms are Swelling, irritation, breast or nipple pain-->
+Predicted disease is 'Breast Cancer', 
+Analgesics are 'Tamoxifen',
+Treatment scans are 'heart-smart diet and indulge in physical activity and avoid smoking', 
+Follow this diet 'whole grains, beans, legumes'.
+
+Your symptoms are Sudden Confusion, Dizziness, Loss of Banlance-->
+Predicted disease is  'Stroke',
+Analgesics are  'Anti-platelet drugs like Plavix', 
+Treatment scans are 'Clot-bursting therapy', 
+Follow this diet 'Fruits and Vegetables, and avoid salt'.
+
+Your symptoms are Shortness of breath, or being inactive--> 
+Predicted disease is 'COPD', 
+Analgesics are 'Tudorza or Brovana', 
+Treatment scans are 'Inhalers and oral steroids',
+Follow this diet 'Eggs, Cheese, Meat, fish, and Poultry'
+-------> .
+
+Your symptoms are Forgetfulness or Confusion-->
+Predicted disease is 'Alzheimer\'s disease', 
+Analgesics are 'Aricept or Exelon', 
+Treatment scans are 'MRI and CT scans',
+Follow this diet 'berries, beans and whole grains'.
+
+Your symptoms are Chest pain, confusion, cough or fatigue-->
+Predicted disease is 'Pneumonia or Influenza', 
+Analgesics are 'Levofloxacin', 
+Treatment scans are 'Plenty of fluids and get lot of rest', 
+Follow this diet 'Citrus fruits, Oily fish and Leafy greens'
+-------> .
+
+Your symptoms are Often urinating, slow healing of bruises, weightloss-->
+Predicted disease is  'Diabetes', 
+Analgesics are 'Tylenol or Aspirin', 
+Treatment scans are 'Insulin Treatment', 
+Follow this diet 'Brown rice or cereals with two eggs daily'.
+
+Your symptoms are reduced urine, swelling of legs or fatigue-->
+Predicted disease is 'Kidney Disease', 
+Analgesics are 'Naproxen or Ibuprofen', 
+Treatment scans are 'Dialysis', 
+Follow this diet 'Berries, bell peppers, onions and apples'.
+
+Your symptoms are Fever, chills, rapid breathing and heart rate-->
+Predicted disease is  'Blood poisoning', 
+Analgesics are 'Ceftriaxone or Azithromycin', 
+Treatment scans are 'Vasoconstriction to narrow blood vessels',
+ Follow this diet 'Leafy greens like spinach'.
+
+Your symptoms are Fragile bones--> 
+Predicted disease is 'Brittle bone disease', 
+Analgesics are 'Biphosphonates, calcium and vitamin D supplements',
+Treatment scans are  'VitaminD supplements and avoid smoking and alcohol',
+Follow this diet 'fruits and foods high on calcium'.
+
+Your symptoms are Skin wrinkles and aging-->
+Predicted disease is 'No disease', 
+Analgesics are 'Anti-aging creams',
+Treatment scans are  'Blepharoplasty surgery to get rid of aging',
+Follow this diet 'Berries, Broccoli, Papaya, Spinach, Nuts and Avocado'.
+
+Your symptoms are Blurry and loss of vision-->
+Predicted disease is  'Mascular Degeneration',
+Analgesics are  'Lucentis or Macugen',
+Treatment scans are  'Regular exercise and avoid smoking', 
+Follow this diet 'Fish and vegetables'.
+
+Your symptoms are Blood pressure reading 140 or higher-->
+Predicted disease is 'High blood pressure', 
+Analgesics are 'Thiazide diuretics', 
+Treatment scans are 'Physical activity like exercise and avoid smoking and srinking', 
+Follow this diet 'low-fat diary, whole grains and Fruits'.
+
+Your symptoms are Trouble sleeping or sleep, mood swings, vaginal dryness-->
+Predicted disease is 'Menopause',
+Analgesics are 'Isoflav capsules',
+Treatment scans are  'Estrogen levels test', 
+Follow this diet 'Fish, Fruits, Vegetables and Diary'.
+
+Your symptoms are Cold, Allergies, Nasal problems-->
+Predicted disease is  'Sinusitis', 
+Analgesics are 'Acetaminophen or Nasal spray',
+Treatment scans are  'Antibiotics like Aspirin and Nasal sprays', 
+Follow this diet 'Salmon, Avocados, Cherries and Beans'
+-------> .
+
+Your symptoms are Pain while urine and ejaculation-->
+Predicted disease is 'Prostate Cancer',
+Analgesics are  'Bicalutamide or Casodex', 
+Treatment scans are 'Radiation therapy or prostatectomy',
+Follow this diet 'Veggies and fruits and low in meat'.
+
+Your symptoms are Trembling body parts and loss of balance-->
+Predicted disease is 'Parkinson\'s disease',
+Analgesics are  'Vesoret capsules',
+Treatment scans are  'Cardibopa-levodopa', 
+Follow this diet 'Fruits and vegetables'.
+
+Your symptoms are Buildup of fluids in legs, ankles and legs, tiredness-->
+Predicted disease is 'Heart failure',
+Analgesics are 'Carvedilol or Metoprolol',
+Treatment scans are  'ACE inhibitors',
+Follow this diet 'Plain rice, fish, egg, milk and yoghurt'.
+
+Your symptoms are difficulty breathing, shortness of breath, chest pain or pressureloss of speech or movement-->
+Predicted disease is Corona Virus ------->
+It is a major disease so please consult your doctor.
+
